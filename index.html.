@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#ffffff">
+  <title>VIKIPOUNS ALL IN 1 | VALL1</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #111;
+    }
+    header {
+      padding: 20px;
+      background: #111;
+      color: white;
+      text-align: center;
+      border-bottom: 4px solid #d4af37;
+    }
+    .logo { font-size: 30px; font-weight: bold; }
+    .logo span { color: #d4af37; }
+    header p { color: #ddd; font-size: 13px; }
+    .hero {
+      text-align: center;
+      padding: 45px 20px;
+      background: #f8f8f8;
+    }
+    .hero h1 { font-size: 30px; }
+    .gold { color: #b38b16; }
+    .hero p { line-height: 1.6; }
+    .departments {
+      padding: 25px 16px;
+      max-width: 850px;
+      margin: auto;
+    }
+    .departments h2 { text-align: center; }
+    .card {
+      border: 1px solid #e0c46b;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 15px 0;
+      background: white;
+      box-shadow: 0 3px 10px #0000000d;
+    }
+    .card h3 { margin-top: 0; }
+    .card p { color: #555; line-height: 1.5; }
+    .button {
+      display: inline-block;
+      background: #d4af37;
+      color: #111;
+      padding: 11px 17px;
+      border-radius: 7px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .ai {
+      margin: 20px 16px;
+      padding: 25px;
+      background: #111;
+      color: white;
+      border-radius: 12px;
+      text-align: center;
+    }
+    footer {
+      padding: 25px;
+      text-align: center;
+      background: #111;
+      color: white;
+      border-top: 4px solid #d4af37;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">VIKI<span>POUNS</span></div>
+    <p>ALL IN 1 INTERNATIONAL PLATFORM</p>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to <span class="gold">VALL1</span></h1>
+    <p>ONE PLATFORM. FOUR DEPARTMENTS.<br>INFINITE POSSIBILITIES.</p>
+    <a href="#departments" class="button">Explore VALL1</a>
+  </section>
+
+  <section class="departments" id="departments">
+    <h2>Our Four Departments</h2>
+
+    <div class="card">
+      <h3>1. Viki Trust Line</h3>
+      <p>Wallet, savings, buyer and seller protection, currency tools and shipment tracking.</p>
+      <a class="button" href="#coming">Explore</a>
+    </div>
+
+    <div class="card">
+      <h3>2. Viki Safe Pay</h3>
+      <p>Private payments, group collections and secure payment distribution.</p>
+      <a class="button" href="#coming">Explore</a>
+    </div>
+
+    <div class="card">
+      <h3>3. Viki Japa Assistant</h3>
+      <p>Flight information, travel savings, reminders and overseas job discovery.</p>
+      <a class="button" href="#coming">Explore</a>
+    </div>
+
+    <div class="card">
+      <h3>4. Viki Trust Jobs</h3>
+      <p>Discover jobs, freelance opportunities and a marketplace for buyers and sellers.</p>
+      <a class="button" href="#coming">Explore</a>
+    </div>
+  </section>
+
+  <section class="ai" id="coming">
+    <h2>Viki Smart AI</h2>
+    <p>Your VALL1 assistant. Get help understanding our platform and its services.</p>
+    <p><strong>Coming soon</strong></p>
+  </section>
+
+  <footer>
+    <p>VIKIPOUNS ALL IN 1 — VALL1</p>
+    <p>White. Gold. Black.</p>
+    <p>© 2026 VALL1. All rights reserved.</p>
+  </footer>
+</body>
+</html>
